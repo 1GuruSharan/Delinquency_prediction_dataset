@@ -4,12 +4,17 @@ This project focuses on predicting customer credit delinquency risk 📊 using h
 
 Dataset & Preprocessing
 The dataset contains anonymized customer records, including demographics, financial history, credit behavior, and income metrics.
+
 🔹 Data Preprocessing → Cleaning & structuring
+
 🔹 Gap Detection → Addressed missing values using statistical imputation for numeric data
+
 🔹 Predictive Modeling → Risk classification
+
 🔹 Detected and handled outliers to improve model stability.
+
 🔹 Visualization → Charts & diagrams for insights
-insights
+
 
 ✨ Risk Prediction Model
 A machine learning model (Random Forest / XGBoost) was developed to classify customers into three risk categories:
